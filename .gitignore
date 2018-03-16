@@ -1,0 +1,12 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.ini
+
+# My configurations:
+deploy_key_rsa
+*.pdf
+test.py
