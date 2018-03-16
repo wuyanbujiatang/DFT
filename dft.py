@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 'a dft file'
-__authon__ = 'Wang Shuaijun'
+__authon__ = 'W.S.J.'
 import math
 import numpy as np
 import matplotlib.pyplot as plt
