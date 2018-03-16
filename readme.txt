@@ -1,1 +1,1 @@
-It dispaly DFT and IDFT.
+It dispalys DFT and IDFT.
