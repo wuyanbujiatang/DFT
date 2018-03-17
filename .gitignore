@@ -9,4 +9,5 @@ Desktop.ini
 # My configurations:
 deploy_key_rsa
 *.pdf
+*.docx
 test.py
